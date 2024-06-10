@@ -1,0 +1,34 @@
+[
+  {
+    "book": {
+      "title": "Libro01",
+      "cover": "Cover04",
+      "year": 2001,
+      "pages": 300
+    }
+  },
+  {
+    "book": {
+      "title": "Libro02",
+      "cover": "Cover03",
+      "year": 2002,
+      "pages": 250
+    }
+  },
+  {
+    "book": {
+      "title": "Libro03",
+      "cover": "Cover02",
+      "year": 2003,
+      "pages": 200
+    }
+  },
+  {
+    "book": {
+      "title": "Libro04",
+      "cover": "Cover01",
+      "year": 2004,
+      "pages": 350
+    }
+  }
+]

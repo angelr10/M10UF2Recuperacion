@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student id="1">
+    <name>nombre1</name>
+    <surname>Apellido1</surname>
+    <email>email1@iticbcn.cat</email>
+    <dni>DNI1</dni>
+  </student>
+  <student id="2">
+    <name>nombre2</name>
+    <surname>Apellido2</surname>
+    <email>email2@iticbcn.cat</email>
+    <dni>DNI2</dni>
+  </student>
+  <student id="3">
+    <name>nombre3</name>
+    <surname>Apellido3</surname>
+    <email>email3@iticbcn.cat</email>
+    <dni>DNI3</dni>
+  </student>
+  <student id="4">
+    <name>nombre4</name>
+    <surname>Apellido4</surname>
+    <email>email4@iticbcn.cat</email>
+    <dni>DNI4</dni>
+  </student>
+  <student id="5">
+    <name>nombre5</name>
+    <surname>Apellido5</surname>
+    <email>email5@iticbcn.cat</email>
+    <dni>DNI5</dni>
+  </student>
+</students>
